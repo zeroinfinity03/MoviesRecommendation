@@ -1,6 +1,4 @@
-Here is a suggested README file for your project, based on the contents of the uploaded files and standard markdown formatting:
 
-```markdown
 # Movie Recommender System
 
 This project provides a movie recommendation system using Python, which processes and analyzes movie data to generate personalized movie recommendations based on user preferences. The core functionalities are built using a combination of machine learning techniques and data processing with the `TMDB 5000 Movies` dataset.
